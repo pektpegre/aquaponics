@@ -21,9 +21,10 @@
 Τέλος θα κατασκευαστεί και ένα αυτόνομο ηλεκτρικό όχημα για την χρήση διαφόρων εργασιών εντός της μονάδας.
 
 Απαραίτητα υλικά κατασκευής
-4x BBC Micro:bit V2 Board (Bulk) 19.90 (79.60)
-1x Compact Motor Driver Board for BBC micro:bit 13,90 (13.90)
-2x Compact All-In-One Robotics Board for BBC micro:bit 21.50 (43.00)
+
+- 4x BBC Micro:bit V2 Board (Bulk) 19.90 (79.60)
+- 1x Compact Motor Driver Board for BBC micro:bit 13,90 (13.90)
+- 2x Compact All-In-One Robotics Board for BBC micro:bit 21.50 (43.00)
 1x Edge Connector Breakout Board for BBC micro:bit 6.00 (6.00)
 1x Grove Αισθητήρας Υγρασίας Εδάφους 9.90 (9.90)
 2x Gravity Φωτοηλεκτρικός Αισθητήρας Στάθμης Νερού 8.90 (17.80)
