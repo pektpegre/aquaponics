@@ -36,5 +36,7 @@
 - 1x BBC:MOVE Mini Bumper Add-On V2 2.40 (2.40)
 - 1x BBC:MOVE Mini Line Following Add-On V2 15.90 (15.90)
 - 2x Alligator Test Leads - Multicolored 10 Pack 3.00 (6.00)
-- 1x Παρελκόμενα (καλώδια σύνδεσης) 10.00 (10.00)
+- 1x Παρελκόμενα (καλώδια σύνδεσης, διακόπτες) 20.00 (20.00)
+
+Συνολικό κόστος : 260 ευρώ
 
