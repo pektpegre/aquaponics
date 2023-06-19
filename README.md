@@ -48,17 +48,18 @@
 
 **Απαραίτητα υλικά κατασκευής**
 
-4x BBC Micro:bit V2 Board (Bulk) 19.90 (79.60)
-2x Waveshare Driver Breakout for micro:bit 23.50 (47.00)
-1x Mini Water Pump Submersible 3-5V DC - Vertical 2.40 (2.40)
-3x Silicone Tube Transparent 6x8mm 1,20 (3,60)
-2x Hobby Motor 5V DC with Gear 1.20 (2.40)
-2x Servo Micro 1.5kg.cm Plastic Gears (Feetech FS90) 3.90 (7.80)
-1x MicroSwitch Micro SPDT ON-(ON) - Long Lever 18mm 0.20 (0.20)
-1x BBC:MOVE Mini Buggy Kit V2 34.90 (34.90)
-1x BBC:MOVE Mini Bumper Add-On V2 2.40 (2.40)
-1x Διάφορα αναλώσιμα ηλεκτρονικά (καλώδια, μπαταρίες, κ.α.) 40.00 (40.00)
-1x Διάφορα αναλώσιμα για την κατασκευή (Φελιζόλ Fibran, μπογιές, κ.α.) 40.00 (40.00)
+- 4x BBC Micro:bit V2 Board (Bulk) 19.90 (79.60)
+- 2x Waveshare Driver Breakout for micro:bit 23.50 (47.00)
+- 1x Mini Water Pump Submersible 3-5V DC - Vertical 2.40 (2.40)
+- 3x Silicone Tube Transparent 6x8mm 1,20 (3,60)
+- 2x Hobby Motor 5V DC with Gear 1.20 (2.40)
+- 2x Servo Micro 1.5kg.cm Plastic Gears (Feetech FS90) 3.90 (7.80)
+- 1x MicroSwitch Micro SPDT ON-(ON) - Long Lever 18mm 0.20 (0.20)
+- 1x BBC:MOVE Mini Buggy Kit V2 34.90 (34.90)
+- 1x BBC:MOVE Mini Bumper Add-On V2 2.40 (2.40)
+- 1x Διάφορα αναλώσιμα ηλεκτρονικά (καλώδια, μπαταρίες, κ.α.) 40.00 (40.00)
+- 1x Διάφορα αναλώσιμα για την κατασκευή (Φελιζόλ Fibran, μπογιές, κ.α.) 40.00 (40.00)
+
 
 Συνολικό κόστος κατασκευής : 260,30 ευρώ
 
