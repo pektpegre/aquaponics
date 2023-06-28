@@ -26,7 +26,7 @@
 - Τσουκαλά Μιχαέλα
 
 Βίντεο με παρουσιάση της κατασκευής από τους μαθητές.
-- https://youtu.be/DHXNmNRTsgY
+- [https://youtu.be/DHXNmNRTsgY](https://youtu.be/xJBRKqDnW_I)
 
 
 **Συνοπτική Περιγραφή**
